@@ -1,0 +1,36 @@
+01. Install all the Basic Packages in one click
+02. System All Packages Update & Upgrade
+03. Git
+04. Python
+05. Python2
+06. Curl
+07. Php
+08. Wget
+09. Openssh
+10. Openssl
+11. Toilet
+12. Nmap
+13. Figlet
+14. Tor
+15. Ruby
+16. Cowsay
+17. Netcat
+18. Fish
+19. Perl
+20. Clang
+21. w3m
+22. Hydra
+23. Zip
+24. Unzip
+25. Tar
+26. Bmon
+27. Golang
+28 Cmatrix
+29. sl
+30. Vim
+31. Zsh
+32. Fortune
+
+00. About Us
+
+99. Exit from this tool
