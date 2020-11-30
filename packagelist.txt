@@ -25,7 +25,7 @@
 25. Tar
 26. Bmon
 27. Golang
-28 Cmatrix
+28. Cmatrix
 29. sl
 30. Vim
 31. Zsh
