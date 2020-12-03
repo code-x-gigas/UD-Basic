@@ -25,7 +25,7 @@ echo " "
 echo -e "\e[1m\e[33m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\e[21m"
 sleep 2
 echo -e "\e[94m"
-
+pkg install ruby -y
 gem install lolcat
 sleep 1
 echo -e "\e[92m "
