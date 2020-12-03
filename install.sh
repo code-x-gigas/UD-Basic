@@ -7,26 +7,30 @@ yellow='\033[33m'
 blue='\033[94m'
 clear
 echo " "
-echo -e "\e[1m\e[33m============================================\e[21m"
+echo -e "\e[1m\e[33m============================================================\e[21m"
 echo " "
 echo -e "\e[33m Welcome to [\e[1m\e[32mUD-Basic\e[21m\e[33m]"
 echo " "
 sleep 1
-echo -e "\e[1m\e[33m============================================\e[21m"
+echo -e "\e[1m\e[33m============================================================\e[21m"
 echo " "
 echo -e "\e[33m•••Script by \e[36mTEAM UNDERCODING DEVIL'S\e[33m•••"
 echo " "
-echo -e "\e[1m\e[33m••••••••••••••••••••••••••••••••••••••••••••\e[21m"
+echo -e "\e[1m\e[33m••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••\e[21m"
 echo " "
 sleep 1
 echo -e "\e[35m Please Wait..."
 echo -e "\e[35m Installing PACKAGES Needed..."
 echo " "
-echo -e "\e[1m\e[33m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\e[21m"
+echo -e "\e[1m\e[33m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\e[21m"
 sleep 2
 echo -e "\e[94m"
 pkg install ruby -y
 gem install lolcat
+sleep 1
+echo -e "\e[92m "
+read -r -s -p $'Press enter to continue...\n'
+clear
 clear
 printf "\n"
 printf "\n"
