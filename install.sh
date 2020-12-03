@@ -6,6 +6,9 @@ cyan='\033[96m'
 yellow='\033[33m'
 blue='\033[94m'
 clear
+pkg install ruby
+gem install lolcat
+clear
 printf "\n"
 printf "\n"
 echo " Created By - Cyber Naraboji | Grey Hatter | Kaalante Doodhan"| lolcat -a -d 50
