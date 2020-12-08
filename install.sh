@@ -68,7 +68,7 @@ bash banner.sh
 printf "\n"
 echo " Installing All Basic Packages. This may take a while....."| lolcat -a -d 50
 printf "\n"
-apt-get update && apt-get upgrade && pkg install git python python2 python3 curl pip php wget openssh openssl nano toilet wget nmap figlet unzip tor ruby cowsay netcat fish perl clang w3m hydra zip unzip tar wclac bmon golang cmatrix wireshark sl vim tch zsh fortune -y
+apt update -y && apt upgrade -y && apt install python -y && apt install python2 -y && apt install python2-dev -y && apt install python3 -y && apt install java -y && apt install fish -y && apt install help -y && apt install host -y && apt install php -y && apt install perl -y && apt install nmap -y && apt install bash -y && apt install clang -y && apt install nano -y && apt install w3m -y && apt install havij -y && apt install hydra -y && apt install figlet -y && apt install cowsay -y && apt install curl -y && apt install tar -y && apt install zip -y && apt install unzip -y && apt install tor -y && apt install google -y && apt install sudo -y && apt install wget -y && apt install wireshark -y && apt install wgetrc -y && apt install wcalc -y && apt install bmon -y && apt install vpn -y && apt install unrar -y && apt install toilet -y && apt install proot -y && apt install net-tool -y && apt install golang -y && apt install chroot -y && apt install macchanger -y && apt install openssl -y && apt install cmatrix -y && apt install openssh -y && apt install wireshark -y && termux-setup-storage -y
 clear
 bash banner.sh
 echo " All Basic Packages have been successfully installed"| lolcat -a -d 50
